@@ -112,7 +112,7 @@ function Navbar() {
   return (
     <Container>
         <Left>
-        <Logo>Instant Book</Logo>
+        <Logo><Link to="/">Instant Book</Link></Logo>
         </Left>
 
         <Right>
