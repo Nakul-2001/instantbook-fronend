@@ -25,6 +25,10 @@ const Logo = styled.div`
     font-size:30px;
     font-weight:bolder;
     padding:5px;
+    a{
+        text-decoration:none;
+        color:white;
+    }
     
 `
 
